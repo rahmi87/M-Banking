@@ -1,12 +1,12 @@
-Program M-Banking
-Judul : Projek Lab PBO berpasangan
+Program Penyewaan Kamar Kos
+Projek Lab PBO berpasangan
 
 Anggota Kelompok :
 1. Rahmi Susanti (2008107010092)
 2. Leni Agustina (2108107010070)
 
 	    
-Projek yang dibuat : Mbanking sederhana
+Projek yang dibuat : Penyewaan Kamar Kos
 
 Penjelasan program
 
