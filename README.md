@@ -1,14 +1,16 @@
-Program Mbanking
+Program M-Banking
 Judul : Projek Lab PBO berpasangan
 
 Anggota Kelompok :
-1. Rahmi Susanti (2008107010092)
-2. Leni
 
+	     1. Ainal Fajri Malahayati(2008107010053) (Ketua)
+	     2. Maghfirah ZA          (2008107010075)
+	     3. Rahmi Susanti         (2008107010092)  
+	     4. Yulia Khairunnisa     (2008107010010)
 Projek yang dibuat : Mbanking sederhana
 
 Penjelasan program
-Program kami memiliki 5 tampilan, yang terdiri dari Register, Login, pertaturan, data nasabah, dan yang terakhir adalah Home. Untuk tambahan, kami membuat 1 file yang berfungsi menyimpan data nasabah yang telah diisi oleh user seperti saldo.
+Pada projek ini kami membuat mbanking sederhana berbasis Java GUI. Program kami memiliki 5 tampilan, yang terdiri dari Register, Login, pertaturan, data nasabah, dan yang terakhir adalah Home. Untuk tambahan, kami membuat 1 file yang berfungsi menyimpan data nasabah yang telah diisi oleh user seperti saldo.
 
 Untuk tampilan awal, user akan diarahkan pada laman register untuk melakukan registrasi terlebih dahulu. Pada register, terdapat username dan password yang harus diisi oleh user, untuk memastikan password yang telah dibuat oleh user, kami menggunakan retype password, jdi jika user mengisi password yang berbeda, maka akan muncul perintah warning. Masing2 inputan akan disimpan dalam sebuah variabel baru.
 Jika berhasil, user akan diarahkan menuju laman peraturan, untuk itu user diminta untuk membaca peraturannya terlebih dahulu. Dengan menekan oke user akan dialihkan menuju data nasabah.
