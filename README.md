@@ -2,11 +2,10 @@ Program M-Banking
 Judul : Projek Lab PBO berpasangan
 
 Anggota Kelompok :
+1. Rahmi Susanti (2008107010092)
+2. Leni Agustina (21081070100)
 
-	     1. Ainal Fajri Malahayati(2008107010053) (Ketua)
-	     2. Maghfirah ZA          (2008107010075)
-	     3. Rahmi Susanti         (2008107010092)  
-	     4. Yulia Khairunnisa     (2008107010010)
+	    
 Projek yang dibuat : Mbanking sederhana
 
 Penjelasan program
